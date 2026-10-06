@@ -1,0 +1,32 @@
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+*.stackdump
+*.dmp
+*.bak
+*.tmp
+*.temp
+
+*.docx
+
+# Байт-код и виртуальное окружение
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+
+# Логи и операционная система
+*.log
+.DS_Store
+Thumbs.db
